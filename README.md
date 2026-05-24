@@ -18,11 +18,21 @@ A Python-based billing management system developed using Jupyter Notebook.
 2. System calculates totals
 3. Invoice is generated automatically
 
+## Application Preview
+
+### 1. Main Application Layout
+![Tkinter Layout](00-Tk-layout.png)
+
+### 2. User Input & Bill Calculation
+![User Input](01_Tk-with-User-input.png)
+
+### 3. Generated Sample Invoice PDF
+![Sample Invoice PDF](02_Sample-Invoice-pdf-ss.png)
+
 ## Future Improvements
 - Database integration
-- GUI interface
-- PDF bill export
-- Cloud deployment
+- Automated Invoice Generation: Computes item totals, taxes, and balances instantly.
+- PDF Export: Generates professional, print-ready sample invoice PDFs.
 
 ## Author
 Swarnim
