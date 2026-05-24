@@ -13,6 +13,12 @@ A Python-based billing management system developed using Jupyter Notebook.
 - Python
 - Jupyter Notebook
 
+## Repository Structure
+
+* `billing-main.ipynb`: The core Python source code, UI logic, and PDF generation workflow.
+* `requirements.txt`: List of external dependencies required to run the project.
+* `*.png`: Visual walkthrough screenshots of the working software.
+
 ## Project Workflow
 1. User enters product details
 2. System calculates totals
